@@ -1,0 +1,14 @@
+[project]
+name = "usc-bill-app"
+version = "0.1.0"
+description = "Streamlit app to fetch USC electricity bill info"
+requires-python = ">=3.9"
+
+dependencies = [
+    "streamlit",
+    "pandas",
+    "requests",
+    "beautifulsoup4"
+]
+
+[tool.uv]  # tells uv to just treat this as an app project
