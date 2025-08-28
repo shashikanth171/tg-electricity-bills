@@ -1,5 +1,7 @@
 # Electricity Bills Dashboard
 
+> **License:** This project is licensed under the GNU Affero General Public License v3.0 (AGPLv3). See [LICENSE](LICENSE) for details.
+
 A Streamlit dashboard to fetch and display electricity bill payment details for multiple USC numbers from the TGSPDCL portal.
 
 ## Features
